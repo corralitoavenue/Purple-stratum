@@ -8,7 +8,6 @@ This repository contains the Stratum mining server for BitcoinPurple, based on C
 
 To compile the stratum server from source:
 
-```bash
 ./autogen.sh
 ./configure
 make
