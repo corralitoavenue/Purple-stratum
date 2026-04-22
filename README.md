@@ -24,10 +24,10 @@ Before starting the pool, you must create a configuration file.
 
 Create a `.conf` file (for example `ckpool.conf`) and configure:
 
-- RPC connection to your BitcoinPurple node  
-- Ports  
-- Wallet address  
-- Pool settings  
+- RPC connection to your BitcoinPurple node
+- Ports
+- Wallet address
+- Pool settings
 
 ---
 
